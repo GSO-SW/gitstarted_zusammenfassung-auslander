@@ -7,10 +7,7 @@ In diesem Repo soll zusammengefasst werden, was man für die Arbeit mit git und 
 1. Die Arbeit soll nicht im Browser stattfinden. Clonen Sie das Repo und arbeiten Sie lokal.
 1. Hier gehts um Teamwork: Ich erwarte häufige Commits (+ häufiges pushen/pullen )
 
-## TODO
-- Begriffe definieren und erklären (z.B. repository, branch etc.)
-- git Befehle für die Arbeit mit lokalen Repositories (inkl. Erläuterungen)
-- git Befehle für die Arbeit mit entfernten Repositories (inkl. Erläuterungen)
+##Erepositories
 
 ## TODO2
 - Fachbegriffe OOP erklären (mit Beispielen)
