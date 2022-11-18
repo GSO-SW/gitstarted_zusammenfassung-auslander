@@ -1,13 +1,13 @@
 ## Begriffe definieren und erklären (z.B. repository, branch etc.)
 
-- commit: 
+- commit : 
   - speichert eine Abbildung aller Dateien in deinen Projektverzeichnis, git commit. 
 
 - Branch : 
   - sie sind einfach verweise auf eine bestimmten Commit, git Branch name.
 
--repository :
- - Es ist ein virtueller Speicher deines Projekts. Damit kannst du Versionen deines Codes speichern und bei Bedarf auf sie zugreifen, git init
+- repository :
+  - Es ist ein virtueller Speicher deines Projekts. Damit kannst du Versionen deines Codes speichern und bei Bedarf auf sie zugreifen, git init
 
 - Mergen :
   - wie man die Arbeit, die in verschiedenen Branches steckt, zusammenführen kann, git merege.
