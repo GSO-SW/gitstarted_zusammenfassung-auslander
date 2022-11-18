@@ -1,4 +1,4 @@
-#Begriffe definieren und erklären (z.B. repository, branch etc.)
+# Begriffe definieren und erklären (z.B. repository, branch etc.)
 
 commit: speichert eine Abbildung aller Dateien in deinen Projektverzeichnis, git commit. 
 
@@ -30,7 +30,7 @@ git push: wird verwendet, um Inhalte in ein Remote-Repository hochzuladen.
 
 git log: Im Allgemeinen ist das Git-Protokoll eine Aufzeichnung von Commits.
 
-#Git Befehle für die Arbeit mit lokalen Repositories
+# Git Befehle für die Arbeit mit lokalen Repositories
 
 - Git init
 Es wird benutzt um einen Ordner in 3 unterschiedlichen Bereichen aufzuteilen, einmal in ein normalen
@@ -59,7 +59,7 @@ Man benutzt es um alle Commits, vor dem angegebenen Commit zu setzen
 
 Die aktuelle Branch Historie wird hinter das aktuelle Commit gepackt
 
-#Entfernte Repositories
+# Entfernte Repositories
 - git clone :
   - wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
   oder eine Kopie dieses Repositorys in einem anderen verzeichnis zu erstellen.
