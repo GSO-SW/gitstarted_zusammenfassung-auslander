@@ -61,7 +61,7 @@ Die aktuelle Branch Historie wird hinter das aktuelle Commit gepackt
 
 ## Entfernte Repositories
 - git clone :
-  - wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
+      - wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
   oder eine Kopie dieses Repositorys in einem anderen verzeichnis zu erstellen.
 - git fetch : 
   - wird verwendet, um Commits, Dateien und Verweise aus einem
