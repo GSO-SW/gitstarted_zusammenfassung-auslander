@@ -20,7 +20,7 @@
   - _zeigt immer auf den neusten Commit.
   -_es ist ein Commit, an den du deinen nächsten Commit hängst.
 
-- * :
+- '*' :
   - bedeutet, wo wir genau stehen.
 
 - git clone :
