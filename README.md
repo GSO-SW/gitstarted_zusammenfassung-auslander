@@ -1,4 +1,3 @@
-
 ##Begriffe definieren und erklären (z.B. repository, branch etc.)
 
 commit: speichert eine Abbildung aller Dateien in deinen Projektverzeichnis, git commit. 
@@ -59,4 +58,17 @@ Man benutzt es um alle Commits, vor dem angegebenen Commit zu setzen
 - Git merge 
 
 Die aktuelle Branch Historie wird hinter das aktuelle Commit gepackt
+
+##Entfernte Repositories
+- git clone :
+  - wird verwendet, um auf ein bestehendes Repository zu verweisen und einen Klon 
+  oder eine Kopie dieses Repositorys in einem anderen verzeichnis zu erstellen.
+- git fetch : 
+  - wird verwendet, um Commits, Dateien und Verweise aus einem
+    Remote-Repository in ein lokales Repository herunterzuladen.
+- git pull :
+  - wird verwendet, um Inhalte aus einem Remote-Repository herunterzuladen 
+    und sofort das lokale Repository zu aktualisieren (damit der Inhalt übereinstimmt).
+- git push :
+  - wird verwendet, um Inhalte aus einem lokalen Repository in ein Remote-Repository hochzuladen.
 
